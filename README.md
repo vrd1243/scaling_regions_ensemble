@@ -1,5 +1,5 @@
-This repository contains the code and supplementary material for the paper titled "Toward Automated Extraction and Characterization of Scaling Regions in Dynamical Systems." 
-The paper proposes a novel approach to automatically extract and characterize scaling regions in dynamical systems.
+This repository contains the code and supplementary material for the paper titled "Toward Automated Extraction and Characterization of Scaling Regions in Dynamical Systems."
+(https://doi.org/10.1063/5.0069365) The paper proposes a novel approach to automatically extract and characterize scaling regions in dynamical systems.
 
 **Abstract**
 
