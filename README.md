@@ -14,9 +14,14 @@ comprehensive analysis and comparisons with existing methods.
 Contents
 The repository is organized as follows:
 
-Lorenz.ipynb: Ensemble method applied to estimate the d2 of the standard Lorenz system. 
-Toy Example.ipynb: Ensemble method applied to estimate the slope for a toy example. 
-ensembles.py: Library code for the ensemble method. 
-lorenz.py: Simulates the Lorenz trajectory. 
-rk4.py: Contains Runge-Kutta code for generating the Lorenz trajectory. 
-utils.py: Contains code for peak detection. 
+**Lorenz.ipynb:** Ensemble method applied to estimate the d2 of the standard Lorenz system. 
+
+**Toy Example.ipynb:** Ensemble method applied to estimate the slope for a toy example. 
+
+**ensembles.py:** Library code for the ensemble method. 
+
+**lorenz.py:** Simulates the Lorenz trajectory. 
+
+**rk4.py:** Contains Runge-Kutta code for generating the Lorenz trajectory. 
+
+**utils.py:** Contains code for peak detection. 
