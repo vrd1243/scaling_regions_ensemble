@@ -1,5 +1,4 @@
-This repository contains the code and supplementary material for the paper titled "Toward Automated Extraction and Characterization of Scaling Regions in Dynamical Systems."
-(https://doi.org/10.1063/5.0069365) The paper proposes a novel approach to automatically extract and characterize scaling regions in dynamical systems.
+This repository contains the code and supplementary material for the paper titled "Toward Automated Extraction and Characterization of Scaling Regions in Dynamical Systems." The paper proposes a novel approach to automatically extract and characterize scaling regions in dynamical systems.
 
 **Abstract**
 
@@ -29,3 +28,11 @@ The repository is organized as follows:
 **rk4.py:** Contains Runge-Kutta code for generating the Lorenz trajectory. 
 
 **utils.py:** Contains code for peak detection. 
+
+**References**
+
+Varad Deshmukh, Elizabeth Bradley, Joshua Garland, James D. Meiss; Toward automated extraction and characterization of scaling regions in dynamical systems. Chaos 1 December 2021; 31 (12): 123102.
+
+Paper: https://doi.org/10.1063/5.0069365
+Code: ![image](https://github.com/vrd1243/scaling_regions_ensemble/assets/7006251/62ddfd4d-496d-47bf-80fd-1622ae36de62)
+
