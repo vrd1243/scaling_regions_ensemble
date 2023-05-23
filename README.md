@@ -24,6 +24,8 @@ The repository is organized as follows:
 
 **lorenz.py:** Simulates the Lorenz trajectory. 
 
+**toy_examle.py:** Simulates the toy example scaling region. 
+
 **rk4.py:** Contains Runge-Kutta code for generating the Lorenz trajectory. 
 
 **utils.py:** Contains code for peak detection. 
