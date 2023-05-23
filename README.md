@@ -33,6 +33,6 @@ The repository is organized as follows:
 
 Varad Deshmukh, Elizabeth Bradley, Joshua Garland, James D. Meiss; Toward automated extraction and characterization of scaling regions in dynamical systems. Chaos 1 December 2021; 31 (12): 123102.
 
-Paper: https://doi.org/10.1063/5.0069365
+Paper: https://doi.org/10.1063/5.0069365<br>
 Code: ![image](https://github.com/vrd1243/scaling_regions_ensemble/assets/7006251/62ddfd4d-496d-47bf-80fd-1622ae36de62)
 
